@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color teal_200
+color teal_700
+color white
+color yellow_dark
+color yellow_light
+color yellow_primary
+drawable ic_launcher_lemonade_background
+drawable ic_launcher_lemonade_foreground
+drawable lemon_drink
+drawable lemon_restart
+drawable lemon_squeeze
+drawable lemon_tree
+id constraint_Layout
+id image_lemon_state
+id text_action
+layout activity_main
+mipmap ic_launcher_lemonade
+mipmap ic_launcher_lemonade_round
+string app_name
+string lemon_drink
+string lemon_empty_glass
+string lemon_select
+string lemon_squeeze
+string squeeze_count
+style Theme.Lemonade
